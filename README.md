@@ -2,7 +2,7 @@
 
 Implementación del juego Sudoku.
 
-![Image text](/ignorar/imagen_muestra_sudoku.png)
+![Image text](/imagen_muestra_sudoku.png)
 
 ## Lenguaje usado
 
